@@ -82,7 +82,7 @@ Open `http://localhost:8000` (or your server URL).
 
 ---
 
-## 🗄 Database
+## Database
 
 The application uses a MySQL database with tables for:
 
@@ -114,7 +114,7 @@ ConnectHub-master/
 
 ---
 
-## 🔧 Development
+## Development
 
 ### Environment Variables
 
