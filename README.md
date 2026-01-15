@@ -188,6 +188,6 @@ DB_PASS=your-mysql-password
 
 **Jeneil Kapadia**
 
-- GitHub: [@Jinam-Shah](https://github.com/JeneilKapadia)
+- GitHub: [@Jeneil-Kapadia](https://github.com/JeneilKapadia)
 
 ---
