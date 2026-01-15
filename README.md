@@ -45,7 +45,7 @@ Dependencies: Vendor libraries (Bower)
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Jinam-Shah/connecthub.git
+git clone https://github.com/Jinam-Shah/ConnetHub-Web-Application.git
 cd connecthub
 ```
 
@@ -177,12 +177,6 @@ DB_PASS=your-mysql-password
 3. Commit changes: `git commit -m 'Add amazing feature'`
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open Pull Request
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
